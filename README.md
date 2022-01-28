@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
   🛠 Tecnologias 
 
-    Angular: 13.1.4200
+    Angular: 13.1.0
     Bootstrap: 5.1.3
     Javascript
     Ngrx: 13.0.2
